@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: HTTPBasics
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 7535
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1267152524
+MIDlet-Jar-URL: HTTPBasics.jar
+RIM-COD-URL: HTTPBasics.cod
+RIM-COD-SHA1: 74 af 09 48 43 57 15 0a 90 e6 55 0d 30 67 a7 9e b0 98 ea 30
+RIM-COD-Size: 2872
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: HTTPBasics
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

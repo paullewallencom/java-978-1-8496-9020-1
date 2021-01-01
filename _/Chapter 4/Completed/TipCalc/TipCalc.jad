@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+MIDlet-Jar-Size: 6705
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: TipCalc.jar
+RIM-MIDlet-Icon-1-1: src/com/rimdev/demo/tipcalc/TipCalcSelect.PNG,focused
+RIM-COD-Module-Dependencies: net_rim_cldc
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: TipCalc
+MIDlet-Name: TipCalc
+RIM-COD-Size: 4872
+RIM-COD-Creation-Time: 1257298402
+MIDlet-1: ,,
+RIM-COD-URL: TipCalc.cod
+MIDlet-Description: Simple, but effective application to calculate the tip on a bill.
+RIM-COD-SHA1: 3e a3 19 cc b5 41 a8 a9 fe b2 99 47 3c c8 ea 10 3d 96 00 60
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
+RIM-MIDlet-Icon-Count-1: 1

@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+RIM-COD-Module-Name: JournalRMS
+RIM-COD-Module-Dependencies: net_rim_cldc
+MIDlet-Jar-Size: 12751
+MIDlet-1: ,,
+RIM-COD-Creation-Time: 1278643677
+MIDlet-Jar-URL: JournalRMS.jar
+RIM-COD-URL: JournalRMS.cod
+RIM-COD-SHA1: da 1b e2 51 c8 da db c7 36 72 06 80 3b 52 89 85 e8 97 48 13
+RIM-COD-Size: 5332
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Version: 0.0
+MIDlet-Name: JournalRMS
+MIDlet-Vendor: <unknown>
+MicroEdition-Profile: MIDP-2.0
+RIM-MIDlet-Flags-1: 0

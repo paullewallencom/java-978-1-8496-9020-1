@@ -1,0 +1,54 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+]
+Description=Simple, but effective application to calculate the tip on a bill.
+ExcludeFromBuildAll=0
+[Files
+src\com\rimdev\demo\tipcalc\TipCalc.PNG
+src\com\rimdev\demo\tipcalc\TipCalcApplication.java
+src\com\rimdev\demo\tipcalc\TipCalcMainScreen.java
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+src\com\rimdev\demo\tipcalc\TipCalc.PNG
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-quiet
+OutputFileName=TipCalc
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=Calculate a Tip!
+Type=0
+UserData=|src
+Vendor=One Cool Guy, inc.
+Version=0.2

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>Hansel</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/Icon.PNG</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/Icon.PNG</location>
+		</link>
+		<link>
+			<name>src/IconSelected.PNG</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/IconSelected.PNG</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/CalcDistanceLocationListener.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/CalcDistanceLocationListener.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/Hansel.rrc</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/Hansel.rrc</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/Hansel.rrh</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/Hansel.rrh</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/HanselApp.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/HanselApp.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/HanselMainScreen.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/HanselMainScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/Hansel/Hansel_es.rrc</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 10/Hansel/src/com/rimdev/demos/Hansel/Hansel_es.rrc</location>
+		</link>
+	</linkedResources>
+</projectDescription>

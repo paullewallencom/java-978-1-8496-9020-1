@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>FieldSampler</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>src/net/rimdev/demo/FieldSampler/FieldSamplerApplication.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 6/Completed/FieldSampler/src/net/rimdev/demo/FieldSampler/FieldSamplerApplication.java</location>
+		</link>
+		<link>
+			<name>src/net/rimdev/demo/FieldSampler/FieldSamplerScreen.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 6/Completed/FieldSampler/src/net/rimdev/demo/FieldSampler/FieldSamplerScreen.java</location>
+		</link>
+		<link>
+			<name>src/net/rimdev/demo/FieldSampler/PacktLogoSmall.png</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 6/Completed/FieldSampler/src/net/rimdev/demo/FieldSampler/PacktLogoSmall.png</location>
+		</link>
+	</linkedResources>
+</projectDescription>

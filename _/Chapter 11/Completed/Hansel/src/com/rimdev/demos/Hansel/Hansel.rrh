@@ -1,0 +1,5 @@
+package com.rimdev.demos.Hansel;
+
+APPLICATION_TITLE#0=0;
+APPLICATION_DESCRIPTION#0=1;
+SCREEN_NO_GPS_SUPPORT#0=2;

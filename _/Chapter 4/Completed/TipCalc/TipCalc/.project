@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>TipCalc</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>TipCalc.jdp</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 4/Completed/TipCalc/TipCalc.jdp</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demo/tipcalc/TipCalc.PNG</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 4/Completed/TipCalc/src/com/rimdev/demo/tipcalc/TipCalc.PNG</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demo/tipcalc/TipCalcApplication.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 4/Completed/TipCalc/src/com/rimdev/demo/tipcalc/TipCalcApplication.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demo/tipcalc/TipCalcMainScreen.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 4/Completed/TipCalc/src/com/rimdev/demo/tipcalc/TipCalcMainScreen.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>

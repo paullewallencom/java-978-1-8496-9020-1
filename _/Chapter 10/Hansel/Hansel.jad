@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+MIDlet-Version: 0.0
+MIDlet-Jar-Size: 22907
+MicroEdition-Configuration: CLDC-1.1
+MIDlet-Jar-URL: Hansel.jar
+RIM-COD-Module-Dependencies: net_rim_cldc,net_rim_locationapi,net_rim_bb_framework_api
+RIM-MIDlet-Flags-2: 0
+RIM-MIDlet-Flags-1: 0
+RIM-COD-Module-Name: Hansel
+MIDlet-Name: Hansel
+RIM-COD-Size: 9576
+RIM-COD-Creation-Time: 1281319337
+RIM-MIDlet-Position-2: 1
+MIDlet-2: ,,Icon
+MIDlet-1: ,Icon.PNG,
+RIM-COD-URL: Hansel.cod
+RIM-MIDlet-NameResourceId-1: 0
+RIM-COD-SHA1: c1 05 63 a1 d4 8d d5 19 c2 7c 94 41 7f d7 43 5e 89 2f 94 4a
+MicroEdition-Profile: MIDP-2.0
+MIDlet-Vendor: <unknown>
+RIM-MIDlet-NameResourceBundle-1: com.rimdev.demos.Hansel.Hansel

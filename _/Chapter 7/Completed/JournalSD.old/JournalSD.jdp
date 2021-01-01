@@ -1,0 +1,55 @@
+## RIM Java Development Environment
+# RIM Project file
+#
+# This file is generated and managed by BlackBerry developer tools.
+# It SHOULD NOT BE modified manually.
+#
+AddOn=0
+AlwaysBuild=0
+[AlxImports
+]
+AutoRestart=0
+[ClassProtection
+]
+[CustomBuildFiles
+]
+[CustomBuildRules
+]
+[DefFiles
+]
+[DependsOn
+]
+ExcludeFromBuildAll=0
+[Files
+src\com\rimdev\demos\JournalSD\JournalApplication.java
+src\com\rimdev\demos\JournalSD\JournalEntry.java
+src\com\rimdev\demos\JournalSD\JournalEntryScreen.java
+src\com\rimdev\demos\JournalSD\JournalMainScreen.java
+src\Journal.PNG
+]
+HaveAlxImports=0
+HaveDefs=0
+HaveImports=0
+[Icons
+src\Journal.PNG
+]
+[ImplicitRules
+]
+[Imports
+]
+Listing=0
+Options=-quiet
+OutputFileName=JournalSD
+[PackageProtection
+]
+RibbonPosition=0
+[RolloverIcons
+]
+RunOnStartup=0
+StartupTier=7
+SystemModule=0
+Title=JournalSD
+Type=0
+UserData=|src
+Vendor=One Cool Guy, Inc.
+Version=.1

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>JournalSD</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>net.rim.eide.RIMResourcesBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.PreprocessBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+		<buildCommand>
+			<name>net.rim.eide.JavaIncrementalProjectBuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>net.rim.eide.rimnature</nature>
+		<nature>net.rim.eide.PreprocessingNature</nature>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>JournalSD.jdp</name>
+			<type>1</type>
+			<location>L:/workspace/JournalSD/JournalSD.jdp</location>
+		</link>
+		<link>
+			<name>src/Journal.PNG</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 7/Completed/JournalSD/src/Journal.PNG</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/JournalSD/JournalApplication.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 7/Completed/JournalSD/src/com/rimdev/demos/JournalSD/JournalApplication.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/JournalSD/JournalEntry.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 7/Completed/JournalSD/src/com/rimdev/demos/JournalSD/JournalEntry.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/JournalSD/JournalEntryScreen.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 7/Completed/JournalSD/src/com/rimdev/demos/JournalSD/JournalEntryScreen.java</location>
+		</link>
+		<link>
+			<name>src/com/rimdev/demos/JournalSD/JournalMainScreen.java</name>
+			<type>1</type>
+			<location>L:/BookCode/Chapter 7/Completed/JournalSD/src/com/rimdev/demos/JournalSD/JournalMainScreen.java</location>
+		</link>
+	</linkedResources>
+</projectDescription>
